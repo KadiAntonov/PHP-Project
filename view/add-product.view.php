@@ -30,7 +30,7 @@
     </form>
     <hr>
     <footer>
-        <p>Scandiweb Test Assignment</p>
+        <p></p>
     </footer>
 </body>
 </html>
