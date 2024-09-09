@@ -10,7 +10,7 @@
         <button>Cancel</button>
     </header>
     <hr>
-    <form action="post" id="product_form">
+    <form action="./add-product.php" method="post" id="product_form">
         <div>
             <label for="sku">SKU</label>
             <input type="text" name="sku" id="sku"><br><br>
